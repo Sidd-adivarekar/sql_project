@@ -1,5 +1,6 @@
 # Retail Sales Analysis SQL Project
 ##project overview
+
 **Project Title: Retail Sales Analysis
 **Database: p1_retail_db
 
